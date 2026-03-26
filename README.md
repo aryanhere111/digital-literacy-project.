@@ -8,7 +8,7 @@
 
 - [About the Project](#-about-the-project)  
 - [Repository Structure](#-repository-structure)  
-- [Screenshots Gallery](#-screenshots-gallery)  
+- [google quiz link](#- https://docs.google.com/forms/d/e/1FAIpQLScHIEvNh-dJqfHr2hIucpJeKvZfbMggB9vWEfyxwE7azwy5uw/viewform)  
 - [Task 1 – Digital Literacy Infographic](#-task-1--digital-literacy-infographic)  
 - [Task 2 – Student Digital Portfolio](#-task-2--student-digital-portfolio)  
 - [Task 3 – Coding & Collaboration Platforms](#-task-3--coding--collaboration-platforms)  
