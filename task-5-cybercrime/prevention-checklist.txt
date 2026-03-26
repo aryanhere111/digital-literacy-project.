@@ -1,0 +1,38 @@
+Stay safe online — checklist for college students
+
+•	Never enter your UPI PIN to "receive" money-
+
+Your PIN is only required when sending funds. Any request asking for your PIN to accept a payment is a scam — reject all such collect requests immediately.
+
+•	Set a daily UPI transaction limit
+In your UPI app settings (PhonePe, GPay, Paytm), cap your daily limit to ₹5,000–₹10,000. This minimises losses if your device or account is ever compromised.
+
+•	Two-factor authentication (2FA) on all key accounts
+Turn on 2FA for your email, Instagram, WhatsApp, and banking apps. Use an authenticator app (like Google Authenticator) rather than SMS-based OTPs wherever possible.
+
+•	Use a different password for every account
+Reusing passwords means one data breach can unlock everything. Use a free password manager (Bitwarden, Google Password Manager) to store strong, unique passwords.
+
+•	Set your social profiles to "Friends only" or private
+Keep your college name, hostel address, phone number, and daily schedule off your public profile. Scammers routinely mine Instagram and LinkedIn bios to personalise attacks.
+
+•	Never share OTPs — even with "bank officials"
+No legitimate bank, UPI app, or government agency will ever call and ask for an OTP. If someone claims to be from your bank and asks for an OTP, hang up immediately.
+
+•	Avoid using public Wi-Fi for banking or UPI transactions
+College canteen or hostel open Wi-Fi networks can be intercepted. Use your mobile data (4G/5G) for all financial transactions, or use a VPN if Wi-Fi is unavoidable.
+
+•	Never install screen-sharing apps at a stranger's request
+Apps like AnyDesk or TeamViewer give full remote access to your phone. "Customer care" callers often ask you to install these. Decline — no real bank or company will ever ask this.
+
+
+If  you've been scammed — act within the first hour
+ call -1930
+National Cyber Crime Helpline
+Call anytime, 24 × 7
+cybercrime.gov.in
+
+National Cyber Crime Portal
+File a complaint online
+Also immediately call your bank's helpline to raise a fraud reversal request — quote the UTR/transaction ID. Speed is critical.
+
